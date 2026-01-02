@@ -142,3 +142,24 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+/* Participants list styling */
+.participants-list {
+  margin-top: 10px;
+  padding-left: 20px;
+  color: #333;
+}
+
+.participant-item {
+  margin-bottom: 6px;
+  font-size: 0.95rem;
+  line-height: 1.3;
+  color: #1b365d;
+}
+
+/* Placeholder when no participants yet */
+.no-participants {
+  margin-top: 10px;
+  color: #6b7280;
+  font-style: italic;
+}
